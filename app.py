@@ -1,3 +1,4 @@
+from torchvision.transforms import ToTensor
 import streamlit as st
 import torch
 import torchvision
