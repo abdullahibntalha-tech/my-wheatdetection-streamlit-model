@@ -2,7 +2,5 @@ streamlit==1.37.0
 torch==2.2.0
 torchvision==0.17.0
 ultralytics==8.2.77
-transformers==4.38.0
-sentencepiece==0.1.99
 numpy==1.26.4
 pandas==2.2.2
